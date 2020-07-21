@@ -1,0 +1,81 @@
+Train on 1160 samples, validate on 40 samples
+Epoch 1/20
+1160/1160 [==============================] - 306s 264ms/step - loss: 0.0493 - accuracy: 0.9860 - val_loss: 0.0203 - val_accuracy: 0.9950
+
+Epoch 00001: loss improved from inf to 0.04927, saving model to unetmod_weights100.hdf5
+Epoch 2/20
+1160/1160 [==============================] - 294s 254ms/step - loss: 0.0115 - accuracy: 0.9960 - val_loss: 0.0067 - val_accuracy: 0.9975
+
+Epoch 00002: loss improved from 0.04927 to 0.01148, saving model to unetmod_weights100.hdf5
+Epoch 3/20
+1160/1160 [==============================] - 294s 253ms/step - loss: 0.0072 - accuracy: 0.9975 - val_loss: 0.0053 - val_accuracy: 0.9980
+
+Epoch 00003: loss improved from 0.01148 to 0.00718, saving model to unetmod_weights100.hdf5
+Epoch 4/20
+1160/1160 [==============================] - 294s 253ms/step - loss: 0.0060 - accuracy: 0.9978 - val_loss: 0.0042 - val_accuracy: 0.9986
+
+Epoch 00004: loss improved from 0.00718 to 0.00597, saving model to unetmod_weights100.hdf5
+Epoch 5/20
+1160/1160 [==============================] - 294s 253ms/step - loss: 0.0047 - accuracy: 0.9982 - val_loss: 0.0038 - val_accuracy: 0.9982
+
+Epoch 00005: loss improved from 0.00597 to 0.00471, saving model to unetmod_weights100.hdf5
+Epoch 6/20
+1160/1160 [==============================] - 294s 253ms/step - loss: 0.0052 - accuracy: 0.9981 - val_loss: 0.0028 - val_accuracy: 0.9988
+
+Epoch 00006: loss did not improve from 0.00471
+Epoch 7/20
+1160/1160 [==============================] - 293s 253ms/step - loss: 0.0042 - accuracy: 0.9984 - val_loss: 0.0025 - val_accuracy: 0.9991
+
+Epoch 00007: loss improved from 0.00471 to 0.00417, saving model to unetmod_weights100.hdf5
+Epoch 8/20
+1160/1160 [==============================] - 294s 253ms/step - loss: 0.0037 - accuracy: 0.9985 - val_loss: 0.0026 - val_accuracy: 0.9990
+
+Epoch 00008: loss improved from 0.00417 to 0.00375, saving model to unetmod_weights100.hdf5
+Epoch 9/20
+1160/1160 [==============================] - 294s 253ms/step - loss: 0.0038 - accuracy: 0.9985 - val_loss: 0.0024 - val_accuracy: 0.9991
+
+Epoch 00009: loss did not improve from 0.00375
+Epoch 10/20
+1160/1160 [==============================] - 293s 253ms/step - loss: 0.0043 - accuracy: 0.9983 - val_loss: 0.0027 - val_accuracy: 0.9991
+
+Epoch 00010: loss did not improve from 0.00375
+Epoch 11/20
+1160/1160 [==============================] - 294s 253ms/step - loss: 0.0033 - accuracy: 0.9987 - val_loss: 0.0024 - val_accuracy: 0.9989
+
+Epoch 00011: loss improved from 0.00375 to 0.00329, saving model to unetmod_weights100.hdf5
+Epoch 12/20
+1160/1160 [==============================] - 294s 253ms/step - loss: 0.0031 - accuracy: 0.9987 - val_loss: 0.0028 - val_accuracy: 0.9987
+
+Epoch 00012: loss improved from 0.00329 to 0.00312, saving model to unetmod_weights100.hdf5
+Epoch 13/20
+1160/1160 [==============================] - 293s 253ms/step - loss: 0.0039 - accuracy: 0.9985 - val_loss: 0.0032 - val_accuracy: 0.9987
+
+Epoch 00013: loss did not improve from 0.00312
+Epoch 14/20
+1160/1160 [==============================] - 293s 253ms/step - loss: 0.0033 - accuracy: 0.9987 - val_loss: 0.0024 - val_accuracy: 0.9991
+
+Epoch 00014: loss did not improve from 0.00312
+Epoch 15/20
+1160/1160 [==============================] - 294s 253ms/step - loss: 0.0032 - accuracy: 0.9987 - val_loss: 0.0023 - val_accuracy: 0.9991
+
+Epoch 00015: loss did not improve from 0.00312
+Epoch 16/20
+1160/1160 [==============================] - 294s 253ms/step - loss: 0.0033 - accuracy: 0.9987 - val_loss: 0.0023 - val_accuracy: 0.9990
+
+Epoch 00016: loss did not improve from 0.00312
+Epoch 17/20
+1160/1160 [==============================] - 293s 253ms/step - loss: 0.0026 - accuracy: 0.9989 - val_loss: 0.0023 - val_accuracy: 0.9991
+
+Epoch 00017: loss improved from 0.00312 to 0.00257, saving model to unetmod_weights100.hdf5
+Epoch 18/20
+1160/1160 [==============================] - 293s 253ms/step - loss: 0.0025 - accuracy: 0.9989 - val_loss: 0.0021 - val_accuracy: 0.9991
+
+Epoch 00018: loss improved from 0.00257 to 0.00253, saving model to unetmod_weights100.hdf5
+Epoch 19/20
+1160/1160 [==============================] - 293s 253ms/step - loss: 0.0027 - accuracy: 0.9989 - val_loss: 0.0022 - val_accuracy: 0.9990
+
+Epoch 00019: loss did not improve from 0.00253
+Epoch 20/20
+1160/1160 [==============================] - 293s 253ms/step - loss: 0.0022 - accuracy: 0.9991 - val_loss: 0.0020 - val_accuracy: 0.9992
+
+Epoch 00020: loss improved from 0.00253 to 0.00223, saving model to unetmod_weights100.hdf5

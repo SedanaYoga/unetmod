@@ -1,0 +1,16 @@
+unet_weights.hdf5
+/__pycache__
+unet-old/__pycache__
+/data
+image_arr.npy
+mask_arr.npy
+/unet-old/unet.hdf5
+/unet-old/data/
+/unet-old/results
+/data/results-yoga/
+hasil-training.mp4
+results
+video-results/
+data/Ground Truth/
+unet_weights10.hdf5
+unet_weights100.hdf5
