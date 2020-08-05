@@ -2,7 +2,7 @@ unet_weights.hdf5
 /__pycache__
 unet-old/__pycache__
 /unet-old/unet.hdf5
-/unet-old/data/
+/data/train/aug/
 /unet-old/results
 /data/results-yoga/
 hasil-training.mp4
@@ -11,3 +11,5 @@ video-results/
 data/Ground Truth/
 unet_weights10.hdf5
 unet_weights100.hdf5
+unetmod_weights100.hdf5
+unetmod-architecture.ai
